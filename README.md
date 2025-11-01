@@ -6,7 +6,7 @@ gf25-01b
 │   ├── report.bib        # Источники в формате BibTeX\
 │   ├── q1-conspect.md    # Конспект по первому вопросу (для презентации)\
 │   ├── q2-approaches.md  # Конспект по второму вопросу\
-│   └── ...
+│   └── ...\
 /seminar-02-tema\
 │   ├── report.tex\
 │   ├── report.bib\
