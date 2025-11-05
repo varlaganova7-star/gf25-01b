@@ -40,10 +40,10 @@
 {\normalfont\bfseries\centering\large}
 {\thesection.}{1em}{}
 \titleformat{\subsection}
-{\normalfont\bfseries}
+{\normalfont\bfseries\centering\normalsize}
 {\thesubsection}{1em}{}
 \titleformat{\subsubsection}
-{\normalfont\itshape}
+{\normalfont\itshape\centering}
 {\thesubsubsection}{1em}{}
 
 \titlespacing*{\section}{0pt}{10mm}{6mm}
