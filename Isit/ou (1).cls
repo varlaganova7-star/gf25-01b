@@ -67,7 +67,7 @@
 \newcommand{\university}{«СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ УНИВЕРСИТЕТ»}
 \newcommand{\institute}{Гуманитарный институт}
 \newcommand{\department}{Кафедра информационных технологий\\в креативных и культурных индустриях}
-\newcommand{\work}{«РЕФЕРАТ»}
+\newcommand{\work}{РЕФЕРАТ}
 \newcommand{\discipline}{Информационные системы и технологии}
 \newcommand{\instructor}{Преподаватель}
 \newcommand{\Nigmatullin}{И. Р. Нигматуллин}
