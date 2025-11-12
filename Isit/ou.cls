@@ -6,7 +6,7 @@
 \linespread{1.3} 
 \usepackage{lipsum}
 \usepackage[a4paper, left=30mm, right=10mm, top=20mm, bottom=20mm]{geometry}
-\usepackage[hidelinks]{hyperref}
+\usepackage[colorlinks=true, urlcolor=blue, hidelinks=false]{hyperref}
 \usepackage[normalem]{ulem}
 \usepackage{iftex}
 \usepackage{textcase}
@@ -30,7 +30,7 @@
         \usepackage[T2A]{fontenc}
         \usepackage[utf8]{inputenc}
         \usepackage[russian]{babel}
-        \usepackage{tempora}
+        \usepackage{newtxtext}
     \fi
 \fi
 
