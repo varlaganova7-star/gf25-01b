@@ -60,6 +60,41 @@
 - Спецификации API
 - Прототипы интерфейсов
 
+## 1. Системы управления требованиями (Requirements Management Tools)
+
+### Корпоративные решения
+- **IBM Engineering Requirements Management DOORS**
+- **Jama Connect**
+- **Modern Requirements** (интеграция с Azure DevOps)
+
+## 2. ALM-платформы (Application Lifecycle Management)
+
+### Комплексные решения
+- **Azure DevOps Server** (ранее TFS)
+- **IBM Engineering Lifecycle Management**
+- **Polarion ALM**
+
+## 3. Специализированные инструменты для аналитиков
+
+### Инструменты моделирования
+- **Enterprise Architect**
+- **IBM Rational Rhapsody**
+- **Visure Requirements**
+
+## 4. Универсальные инструменты с функционалом для требований
+
+### Гибкие решения
+- **Jira** + дополнения (Requirements Management for Jira)
+- **Confluence** - для документирования требований
+- **Microsoft Word** + средства контроля изменений
+
+## 5. Облачные и гибридные решения
+
+### SaaS-платформы
+- **IBM DOORS Next**
+- **Jama Connect**
+- **Valispace** (для инженерных требований)
+
 ## Заключение
 
 Анализ требований и проектирование структуры - взаимосвязанные критически важные этапы. 
@@ -68,3 +103,4 @@
 - Предотвращение роста затрат
 - Обеспечение соответствия ожиданиям пользователей
 - Успешная реализация ИТ-проекта
+
